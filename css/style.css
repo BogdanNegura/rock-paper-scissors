@@ -43,7 +43,7 @@ body {
 
 .restart-btn:hover {
     background-color: var(--primary-color);
-    color: fff;
+    color: #fff;
 }
 
 
